@@ -21,3 +21,7 @@ The artifact that contains the JavaScript port of JAMA appears in: ./JamaJS/targ
 - Java 8 JDK is required. Type in ``java -version`` in a console to make sure that you have a >1.8 JDK.
 - The `node` and `npm` executables must be in the path (https://nodejs.org).
 - Install Maven (https://maven.apache.org/install.html).
+
+## Exclusions
+
+This port of JAMA excludes the testing code, the documentation, and a few methods in the Matrix class which rely on IO.
