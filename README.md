@@ -5,12 +5,16 @@ See https://math.nist.gov/javanumerics/jama/ for details about JAMA.
 
 ## Usage
 
+If you would like to build from source:
 ```
 > git clone https://github.com/dragonfly-ai/JamaJS.git
 > cd JamaJS
 > mvn generate-sources
 > firefox demo/index.html
 ```
+
+Otherwise, if you want to include JAMA in your own javascript project, you can download:
+<a href="http://dragonfly.ai/code/JamaJS/JamaJS.js">Human Readable</a> or: <a href="http://dragonfly.ai/code/JamaJS/JamaJS-minified.js">Minified</a>
 
 ## Transpiler Results
 
