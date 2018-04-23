@@ -1,6 +1,7 @@
-# This project is adapted from JAMA source code: https://math.nist.gov/javanumerics/jama/
-# and the JSweet quick start project: http://www.jsweet.org/getting-started/
+# Welcome to JamaJS!
 
+This project leverages the JSweet quick start project, http://www.jsweet.org/getting-started/ to transpile JAMA, the Java Matrix Library by MathWorks and NIST, to javascript.
+See https://math.nist.gov/javanumerics/jama/ for details about JAMA.
 
 ## Usage
 
