@@ -63,11 +63,12 @@
 				<version>2.0.0</version>
 				<configuration>
 					<verbose>true</verbose>
-					<tsOut>target/ts</tsOut>
-					<outDir>target/js</outDir>
-                    <bundle>true</bundle>
-					<candiesJsOut>demo</candiesJsOut>
-					<targetVersion>ES3</targetVersion>
+					<tsOut>dist/ts</tsOut>
+					<outDir>dist/js</outDir>
+                    <bundle>false</bundle>
+					<!-- candiesJsOut>demo</candiesJsOut -->
+					<targetVersion>ES6</targetVersion>
+					<module>commonjs</module>
 				</configuration>
 				<executions>
 					<execution>
