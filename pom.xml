@@ -67,7 +67,7 @@
 					<outDir>dist/js</outDir>
                     <bundle>false</bundle>
 					<!-- candiesJsOut>demo</candiesJsOut -->
-					<targetVersion>ES6</targetVersion>
+					<targetVersion>ES3</targetVersion>
 					<module>commonjs</module>
 				</configuration>
 				<executions>
