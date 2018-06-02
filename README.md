@@ -16,7 +16,7 @@ If you would like to build from source:
 Otherwise, if you want to include JAMA in your own javascript project, you can download:
 <a href="http://dragonfly.ai/code/JamaJS/JamaJS.js">Human Readable</a> or: <a href="http://dragonfly.ai/code/JamaJS/JamaJS-minified.js">Minified</a>
 
-Node.js users can make use of <a href="https://www.npmjs.com/package/jama">this node module</a>
+Node.js users can make use of <a href="https://www.npmjs.com/package/jama">this node module</a>.
 
 ## Transpiler Results
 
